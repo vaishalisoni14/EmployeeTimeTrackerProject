@@ -363,5 +363,5 @@ FodyWeavers.xsd
 # End of https://www.toptal.com/developers/gitignore/api/windows,visualstudio
 
 # Custom entries for EmployeeTimeTrackerProject
-*.html
-*.png
+# *.html
+# *.png
